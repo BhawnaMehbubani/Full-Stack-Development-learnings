@@ -1,1 +1,1 @@
-# Full-Stack-Development-learnings
+# Full-Stack-Development-learnings (projects and practice)
